@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Links
 
-[My Solution](https://dovelm.github.io/FEM-nft-preview-card-component-main)
+[My Solution](https://dovlym.github.io/FEM-nft-preview-card-component-main)
 
 
 ## My process
